@@ -4,6 +4,8 @@ export default function Home() {
           <h1 className="text-center text-red-600 text-6xl font-bold ">
       Hello world!
         </h1>
+        <p className="text-blue-500 bg-white text-center"> teste 2 </p>
     </div>
+    
   )
 }
