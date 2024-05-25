@@ -1,3 +1,8 @@
+# App Mostra/Oculta Senha com Next.js
+
+Este é um aplicativo simples construído com Next.js que permite aos usuários alternar entre mostrar e ocultar senhas em campos de entrada de texto. Ele fornece uma interface intuitiva para os usuários visualizarem suas senhas enquanto digitam.
+
+
 # Next.js
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
